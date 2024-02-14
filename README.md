@@ -28,9 +28,6 @@ Para executar o jogo localmente:
 
 2. Abra o arquivo `index.html` em seu navegador.
 
-## Demonstração
-
-Você pode jogar o jogo ao vivo [aqui](#) (insira o link para a demonstração ao vivo, se disponível).
 
 ## Contribuindo
 
