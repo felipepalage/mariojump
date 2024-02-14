@@ -1,53 +1,52 @@
-# Mario Jump Game
+#Jogo Mario Jump
 
-This project is a simple Mario-inspired jumping game built using HTML, CSS, and JavaScript. It recreates the classic mechanics of the iconic Mario game where the player has to jump over obstacles to reach the end.
+Este projeto é um jogo de salto simples inspirado no Mario, criado usando HTML, CSS e JavaScript. Recria a mecânica clássica do icônico jogo Mario, onde o jogador tem que pular obstáculos para chegar ao fim.
 
-## How to Play
+## Como jogar
 
-1. **Controls:**
-   - Use the `spacebar` key to make Mario jump.
-   - Navigate through obstacles by timing your jumps correctly.
+1. **Controles:**
+   - Use a tecla `qual tecla` para fazer Mario pular.
+   - Navegue pelos obstáculos cronometrando seus saltos corretamente.
 
-2. **Scoring:**
-   - Gain points by successfully avoiding obstacles and reaching higher platforms.
-   - The game ends when Mario collides with an obstacle.
+2. **Reiniciar:**
+   - Se Mario colidir com um obstáculo, pressione a `f5` para reiniciar o jogo.
 
-3. **Restart:**
-   - If Mario collides with an obstacle, press the `spacebar` to restart the game.
+## Tecnologias usadas
 
-## Technologies Used
+- **HTML:** Estruturou o layout do jogo.
+- **CSS:** Estilizou os elementos para criar a experiência visual.
+- **JavaScript:** Lógica de jogo implementada, incluindo movimento, detecção de colisão e pontuação.
 
-- **HTML:** Structured the layout of the game.
-- **CSS:** Styled the elements to create the visual experience.
-- **JavaScript:** Implemented game logic including movement, collision detection, and scoring.
+## Instalação
 
-## Installation
+Para executar o jogo localmente:
 
-To run the game locally:
-
-1. Clone this repository to your local machine using:
+1. Clone este repositório em sua máquina local usando:
 
    ```
-   git clone https://github.com/seu-usuario/mario-jump.git
+   clone do git https://github.com/felipepalage/mariojump
    ```
 
-2. Open the `index.html` file in your web browser.
+2. Abra o arquivo `index.html` em seu navegador.
 
-## Demo
+## Demonstração
 
-You can play the game live [here](#) (insert link to live demo if available).
+Você pode jogar o jogo ao vivo [aqui](#) (insira o link para a demonstração ao vivo, se disponível).
 
-## Contributing
+## Contribuindo
 
-Contributions are welcome! If you'd like to improve the game or fix any bugs, feel free to fork this repository and submit a pull request.
+Contribuições são bem-vindas! Se você quiser melhorar o jogo ou corrigir algum bug, sinta-se à vontade para fazer um fork deste repositório e enviar uma solicitação pull.
 
-## License
+## Licença
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
 
-## Acknowledgments
+## Agradecimentos
 
-- Inspiration: The original Mario game series by Nintendo.
-- Special thanks to [Name], [Name], and [Name] for their valuable contributions.
+- Inspiração: A série original de jogos Mario da Nintendo.
+- Agradecimentos especiais a dev media por suas valiosas contribuições.
 
-Enjoy playing Mario Jump! If you have any questions or suggestions, feel free to reach out.
+- ![mario](https://github.com/felipepalage/mariojump/assets/115266175/c6fa0cb8-0495-40a3-8a22-c628d66f974e)
+
+
+Divirta-se jogando Mario Jump! Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
