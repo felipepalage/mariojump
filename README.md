@@ -1,5 +1,4 @@
-#Jogo Mario Jump
-
+# Mario Jump Game
 Este projeto é um jogo de salto simples inspirado no Mario, criado usando HTML, CSS e JavaScript. Recria a mecânica clássica do icônico jogo Mario, onde o jogador tem que pular obstáculos para chegar ao fim.
 
 ## Como jogar
