@@ -42,6 +42,7 @@ Contribuições são bem-vindas! Se você quiser melhorar o jogo ou corrigir alg
 - Inspiração: A série original de jogos Mario da Nintendo.
 - Agradecimentos especiais a Manual do DEV por suas valiosas contribuições.
 
-- ![mario](https://github.com/felipepalage/mariojump/assets/115266175/c6fa0cb8-0495-40a3-8a22-c628d66f974e)
+- Divirta-se jogando Mario Jump! Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
 
-Divirta-se jogando Mario Jump! Se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato.
+ ![mario](https://github.com/felipepalage/mariojump/assets/115266175/c6fa0cb8-0495-40a3-8a22-c628d66f974e)
+
